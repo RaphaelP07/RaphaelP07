@@ -1,7 +1,7 @@
 - 👊🏻 Hi, I’m @RaphaelP07
 - 🎼 I make music and do calisthenics 🤸‍♂️
 - 💻 I’m currently learning how to code in Avion School!
-- 📱 ⌨️ 🖥 I would like to collaborate on softwares for media production.
+- 📱 ⌨️ 🖥 I would like to collaborate on apps for media production.
 - 📫 You can reach me through email: raphaelpabicopadua@gmail.com
 
 <!---
