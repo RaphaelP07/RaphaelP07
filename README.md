@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Agendas Meeting App](https://github.com/RaphaelP07/agendas_be)
 
-- 🌱 I just finished coding bootcamp on Avion School studying **HTML, CSS, Javascript, ReactJS, Ruby, Ruby on Rails**
+- 🌱 I coding coding on Avion School studying **HTML, CSS, Javascript, ReactJS, Ruby, Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaphaelP07?tab=repositories](https://github.com/RaphaelP07?tab=repositories)
 
