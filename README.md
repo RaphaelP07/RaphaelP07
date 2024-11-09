@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raphael Padua</h1>
 <h3 align="center">A web developer from Philippines</h3>
 
-- 🔭 I’m currently working in Digiteer Software Solutions as a Mid-Level Systems Engineer with Focus on Training and Development.
+- 🔭 I’m currently working in Digiteer as a Mid-Level Systems Engineer with Focus on Training and Development.
 
 - 🌱 I learned coding on Avion School studying **HTML, CSS, Javascript, ReactJS, Ruby, Ruby on Rails**
 
