@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raphael Padua</h1>
 <h3 align="center">A web developer from Philippines</h3>
 
-- 🔭 I’m currently working on [Agendas Meeting App](https://github.com/RaphaelP07/agendas_be)
+- 🔭 I’m currently working in Digiteer Software Solutions as a Mid-Level Systems Engineer with Focus on Training and Development.
 
-- 🌱 I coding coding on Avion School studying **HTML, CSS, Javascript, ReactJS, Ruby, Ruby on Rails**
+- 🌱 I learned coding on Avion School studying **HTML, CSS, Javascript, ReactJS, Ruby, Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RaphaelP07?tab=repositories](https://github.com/RaphaelP07?tab=repositories)
+- 👨‍💻 All of my personal projects are available at [https://github.com/RaphaelP07?tab=repositories](https://github.com/RaphaelP07?tab=repositories)
 
-- 💬 Ask me about **ReactJS, Ruby on Rails**
+- 💬 Ask me about **Ruby on Rails, ReactJS**
 
 - 📫 How to reach me **raphaelpabicopadua@gmail.com**
 
