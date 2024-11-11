@@ -13,6 +13,15 @@
 
 - ⚡ Fun fact **I got interested on programming because almost all of the music I make is made through software.**
 
+<br>
+
+<h4 align="left"> 🧑🏻‍💻 Here are my contributions to my company's private repositories as of November 2024:</h4> 
+- This is the account I use daily
+
+<p><a href="https://ibb.co/Zchk6Vz"><img src="https://i.ibb.co/Dw7SDtf/Screenshot-2024-11-11-at-11-04-25-AM.png" alt="Screenshot-2024-11-11-at-11-04-25-AM" border="0"></a></p>
+<p><a href="https://ibb.co/hD9fGxF"><img src="https://i.ibb.co/YpQZ54B/Screenshot-2024-11-11-at-3-06-09-PM.png" alt="Screenshot-2024-11-11-at-3-06-09-PM" border="0"></a></p>
+<p><a href="https://ibb.co/YQk6KXq"><img src="https://i.ibb.co/QQNZqk1/Screenshot-2024-11-11-at-3-06-27-PM.png" alt="Screenshot-2024-11-11-at-3-06-27-PM" border="0"></a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/raphael-padua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raphael-padua" height="30" width="40" /></a>
